@@ -1,0 +1,9 @@
+{
+  "name": "3dcustom",
+  "version": "1.0.0",
+  "description": "Three D customizer",
+  "main": "index.js",
+  "author": "Racheal Maina",
+  "license": "MIT"
+  
+}
